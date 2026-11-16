@@ -1,4 +1,4 @@
-# 🎓 SeniorSphere — TIET Campus Peer Mentorship Network
+# 🎓 SeniorSphere: TIET Campus Peer Mentorship Network
 
 ## 🏛️ About the Project
 SeniorSphere is an Object-Oriented peer mentorship and academic doubt-resolution website engineered for the student community of Thapar Institute of Engineering & Technology (TIET). Developed by our team of 3 students as our Semester 3 OOPs Project, the platform connects juniors with verified seniors to resolve academic bottlenecks, prepare for ESTs, and schedule 1-on-1 mentorship sessions.
